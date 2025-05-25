@@ -1,3 +1,3 @@
 # git_test
 
-This is just a test file for some git testing
+This is a readme file that I'm using to test commits etc.
